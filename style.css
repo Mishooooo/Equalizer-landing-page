@@ -28,6 +28,7 @@ font-size: 24px;
 line-height: 48px;
 
 color: #191826;
+    overflow-x: hidden;
 }
 p {
 font-family: 'IBM Plex Sans';
